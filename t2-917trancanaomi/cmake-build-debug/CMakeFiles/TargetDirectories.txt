@@ -1,0 +1,3 @@
+C:/Users/Naomi/Desktop/t2-917trancanaomi-1/cmake-build-debug/CMakeFiles/t2_917trancanaomi_1.dir
+C:/Users/Naomi/Desktop/t2-917trancanaomi-1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Naomi/Desktop/t2-917trancanaomi-1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
