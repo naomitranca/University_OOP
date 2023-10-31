@@ -1,0 +1,9 @@
+﻿  Source.c
+D:\Facultate\Anul1Sem2\OOP\Project Euler\Prob2\Prob2\Source.c(43,15): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+D:\Facultate\Anul1Sem2\OOP\Project Euler\Prob2\Prob2\Source.c(88,22): warning C4244: 'function': conversion from '__int64' to 'int', possible loss of data
+D:\Facultate\Anul1Sem2\OOP\Project Euler\Prob2\Prob2\Source.c(89,16): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+D:\Facultate\Anul1Sem2\OOP\Project Euler\Prob2\Prob2\Source.c(95,24): warning C4244: 'function': conversion from '__int64' to 'int', possible loss of data
+D:\Facultate\Anul1Sem2\OOP\Project Euler\Prob2\Prob2\Source.c(100,12): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+D:\Facultate\Anul1Sem2\OOP\Project Euler\Prob2\Prob2\Source.c(108,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Facultate\Anul1Sem2\OOP\Project Euler\Prob2\Prob2\Source.c(120,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Prob2.vcxproj -> D:\Facultate\Anul1Sem2\OOP\Project Euler\Prob2\Debug\Prob2.exe
